@@ -91,7 +91,7 @@ function load_data() {
                 console.log(state_this);
 
                 var districttable = document.getElementById("districttable");
-                
+
                 $(districttable).find("tr:gt(0)").remove();
                 
                 // populate table
