@@ -1,0 +1,3 @@
+The latest threat the world is facing currently is the virus named corona virus, a deadly disease. Due to the complications of the virus there is no cure yet. Vaccines have already started rolling out but even those are scarce and sometimes faulty. In this moment of crisis, we have developed a multipurpose webapp that helps people. 
+
+Our webapp grabs the APIs released by the government of India and shows covid19 data of all the states, in a chart as well as using a hotmap.Along with that there is a digital covid19 checker which checks for risks by asking questions (texually and with audio as well). It also includes preventive measures. 
